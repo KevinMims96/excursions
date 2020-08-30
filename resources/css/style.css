@@ -22,3 +22,23 @@ video {
     display: block;
     margin: 0 auto;
 }
+
+body h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+body h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img.tent {
+    display: block;
+    margin: 0 auto;
+}
